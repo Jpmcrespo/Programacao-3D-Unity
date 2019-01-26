@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+video/video[[:space:]]zombies.mp4 filter=lfs diff=lfs merge=lfs -text
